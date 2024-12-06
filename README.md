@@ -1,4 +1,4 @@
-# IRCTC Railway Management System
+# IRCTC Project
 
 ## Problem Statement
 
