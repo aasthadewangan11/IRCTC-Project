@@ -48,7 +48,7 @@ API_KEY=your_admin_api_key
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ujjawalkumar131/IRCTC_API_WorkIndia.git
+   git clone https://github.com/aasthadewangan11/IRCTC-Project.git
    cd irctc-railway-management
    ```
    
@@ -302,5 +302,4 @@ You can test all the available APIs using Postman. The endpoints are well-struct
 * Add email notifications for booking confirmations
 * Integrate payment gateway
 
-### Contributing
-Feel free to fork the repository and make your contributions via pull requests. Any enhancements, bug fixes, or suggestions are welcome!
+
